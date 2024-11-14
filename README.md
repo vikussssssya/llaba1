@@ -13,8 +13,8 @@
 - Отображение текста "Переданный параметр: Наумов".
 
 <p align="center">
-    <img src="https://github.com/inofuturei/laba1/blob/master/photo_1_2024-10-22_23-24-56.jpg" width="250"> 
-    <img src="https://github.com/inofuturei/laba1/blob/master/photo_2_2024-10-22_23-24-56.jpg" width="250">
+    <img src="https://github.com/vikussssssya/llaba1/blob/main/1.png" width="250"> 
+    <img src="https://github.com/vikussssssya/llaba1/blob/main/2.png" width="250">
 </p> 
 
 ## <a id="Как-собрать-проект">Как собрать проект?</a>
